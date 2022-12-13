@@ -13,4 +13,5 @@ For running the project,
 ## If Chromer error,
 For ChromeDriver, identify the version of Chrome you are using and then click the link to get the appropriate driver: [Link](https://chromedriver.chromium.org/downloads) 
 
+## Typing Speed
 For changing the typing speed, change the value in delay in line number 37. 
